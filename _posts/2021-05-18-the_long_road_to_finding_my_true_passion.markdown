@@ -51,8 +51,6 @@ In December of 2019, I was forced to go on short-term disability due to a severe
 ## That's when I discovered the magical world of coding!
 ![Coding](https://i.gifer.com/3Eqa.gif)
 
-<br>
-
 On a whim, I signed up for a [Codecademy](https://www.codecademy.com/learn) account and began tinkering around with some of their free courses.  As someone who has been building custom PCs for the past ten years, I wanted to learn *how* the car ran as opposed to only knowing what's going on under the hood.  I instantly became hooked.
 
 Fast forward several months.  I had completed a full career path, two skill paths, and 27 courses through Codecademy, from C++ to Python and everything in between.  I wasn't satisfied with focusing on just one language; I wanted to learn *everything.*  I started my very own GitHub account, I followed tech accounts on Twitter, I read articles and books, I watched YouTube videos.  I was obsessed.  I took some more free courses, completed tutorials through other programs, and began creating my own projects.  For the first time in years, everything felt right.  I felt satisfied.  I was happy.  Actually, let me rephrase: I was as happy as you can be in the midst of severe depression.
