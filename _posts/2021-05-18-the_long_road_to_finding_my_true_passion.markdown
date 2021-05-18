@@ -36,7 +36,7 @@ A few weeks later, I was at the gym working on my cardio and noticed I was feeli
 
 I went in for an EKG with my doctor and received an urgent referral for cardiology.  Two days later, I found myself sitting in an office with people that were easily three times my age.  I was terrified.  Deep down, I could sense something was seriously wrong.  Cardiology immediately referred me to the only neurologist in the area who specializes in disorders of the autonomic nervous system (the system that regulates your heart rate, breathing, digestion, bladder, blood vessels, etc.).  After a seemingly endless battery of tests and procedures, I received my official diagnosis:
 
-[Dysautonomia](https://en.wikipedia.org/wiki/Dysautonomia)
+<a href="https://en.wikipedia.org/wiki/Dysautonomia" target="_blank">Dysautonomia</a>
 
 There is no cure for this condition and the only course of treatment is medication to manage symptoms.  The diagnosis was bad enough, but even worse was my neurologist hitting me with a reality check.
 
@@ -51,12 +51,12 @@ In December of 2019, I was forced to go on short-term disability due to a severe
 ## That's when I discovered the magical world of coding!
 ![Coding](https://i.gifer.com/3Eqa.gif)
 
-On a whim, I signed up for a [Codecademy](https://www.codecademy.com/learn) account and began tinkering around with some of their free courses.  As someone who has been building custom PCs for the past ten years, I wanted to learn *how* the car ran as opposed to only knowing what's going on under the hood.  I instantly became hooked.
+On a whim, I signed up for a <a href="https://www.codecademy.com/learn" target="_blank">Codecademy</a> account and began tinkering around with some of their free courses.  As someone who has been building custom PCs for the past ten years, I wanted to learn *how* the car ran as opposed to only knowing what's going on under the hood.  I instantly became hooked.
 
 Fast forward several months.  I had completed a full career path, two skill paths, and 27 courses through Codecademy, from C++ to Python and everything in between.  I wasn't satisfied with focusing on just one language; I wanted to learn *everything.*  I started my very own GitHub account, I followed tech accounts on Twitter, I read articles and books, I watched YouTube videos.  I was obsessed.  I took some more free courses, completed tutorials through other programs, and began creating my own projects.  For the first time in years, everything felt right.  I felt satisfied.  I was happy.  Actually, let me rephrase: I was as happy as you can be in the midst of severe depression.
 
 I hadn't considered any type of career in the tech industry and wanted to make sure I wouldn't lose interest in this like I had with so many other things I tried.  The months went by and my interest and desire to learn only intensified.  I was meant to do this.  I started researching schooling options and decided attending a bootcamp-style program was the right choice for me.  I finally had the motivation I was looking for to get help with my depression.
 
-It's now May 18, 2021 and my depression is lifting.  I'm on a stable medication regimen and regularly attend therapy.  I finally worked up the courage to take the next step.  I wanted this to be more than a hobby; I wanted it to be my career.  I applied to [Flatiron School](https://flatironschool.com/our-courses/) for their self-paced Full-Stack Software Engineering program and was over the moon when I found out I had been accepted.  At age 30, everything is finally falling into place and I'm on the exact path I was meant to travel.
+It's now May 18, 2021 and my depression is lifting.  I'm on a stable medication regimen and regularly attend therapy.  I finally worked up the courage to take the next step.  I wanted this to be more than a hobby; I wanted it to be my career.  I applied to <a href="https://flatironschool.com/our-courses/" target="_blank">Flatiron School</a> for their self-paced Full-Stack Software Engineering program and was over the moon when I found out I had been accepted.  At age 30, everything is finally falling into place and I'm on the exact path I was meant to travel.
 
 <h2 align="center">For the first time in my life, I can truly say I have found my passion.</h2>
