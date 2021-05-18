@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "The Long Road to Finding My True Passion"
-date:       2021-05-18 18:41:01 +0000
+date:       2021-05-18 14:41:01 -0400
 permalink:  the_long_road_to_finding_my_true_passion
 ---
 
 ---
 
-#### *"What do you want to be when you grow up?"*
+## *"What do you want to be when you grow up?"*
 
 We've all been asked that question, and we've been asked a lot.  From the time we're able to talk until we become an adult and are considered "grown up", we've been asked more times than we can count.  Contemplating our future is part of human nature.  We change our minds, we develop new interests, we find our niche, and we try to build our lives around what we feel would make us happy.
 
@@ -51,7 +51,7 @@ After some careful thought, I decided to stick with my ambulance dispatching job
 
 In December of 2019, I was forced to go on short-term disability due to a severe bipolar depression episode.  I laid in bed all day.  I had no motivation, no drive, no desire to do anything.  I zoned out in front of the TV and didn't shower for weeks at a time.  I needed help but couldn't force myself to care enough to get it.  I looked for hobbies to keep me busy but I quickly lost interest in anything I tried.  Eventually, I was forced to quit my job.
 
-### That's when I discovered the magical world of coding!
+## That's when I discovered the magical world of coding!
 ![Coding](https://i.gifer.com/3Eqa.gif)
 
 <br>
@@ -64,4 +64,4 @@ I hadn't considered any type of career in the tech industry and wanted to make s
 
 It's now May 18, 2021 and my depression is lifting.  I'm on a stable medication regimen and regularly attend therapy.  I finally worked up the courage to take the next step.  I wanted this to be more than a hobby; I wanted it to be my career.  I applied to [Flatiron School](https://flatironschool.com/our-courses/) for their self-paced Full-Stack Software Engineering program and was over the moon when I found out I had been accepted.  At age 31, everything is finally falling into place and I'm on the exact path I was meant to travel.
 
-<h3 align="center">*For the first time in my life, I can truly say I have found my passion.*</h3>
+<h2 align="center">*For the first time in my life, I can truly say I have found my passion.*</h2>
