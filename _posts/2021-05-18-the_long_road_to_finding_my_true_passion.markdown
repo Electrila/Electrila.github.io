@@ -26,8 +26,6 @@ That idea didn't last long.  I realized I actually hated college.  The thought o
 
 ![Nope](https://media.tenor.com/images/c8a495c2fa70f31f8b77d35b6e8b91d4/tenor.gif)
 
-<br>
-
 Although being a doctor was out of the question, I was still very interested in the medical field, so I signed up for a trade program to obtain my EMT license.  I began volunteering with Virginia Beach EMS and took a full-time job as a dispatcher for a private hospital-owned ambulance service.  I loved being an EMT because it meant I was in a position to help others, which in turn filled a hole in my life I never knew existed.  I had found my calling, but it wasn't simply being an EMT or an ambulance dispatcher; it was helping others through some of their most difficult moments.
 
 Fast forward two years and...yep, you guessed it.  My interest waned and I decided EMS wasn't the career for me.  I still wanted to help others in difficult circumstances, so I decided to apply to police academies in the area.  I started going to the gym four to five days a week and became hyperfocused on improving my fitness level while I waited for the decisions on my applications to start rolling in.  *This*, I told myself.  *This is what I was meant to do.*
@@ -42,7 +40,7 @@ I went in for an EKG with my doctor and received an urgent referral for cardiolo
 
 There is no cure for this condition and the only course of treatment is medication to manage symptoms.  The diagnosis was bad enough, but even worse was my neurologist hitting me with a reality check.
 
->**"You won't be able to maintain any career that involves physical activity."**
+> # ***"You won't be able to maintain any career that involves physical activity."***
 
 These words hit me like a ton of bricks.  I couldn't be a police officer.  I couldn't be an EMT anymore.  I couldn't do any of the things I dreamed of doing with my life.  My world was flipped upside down and I had no idea how to put the pieces of my now shattered future back together.  I was going to be confined to a desk for the rest of my life.  I was lost.
 
