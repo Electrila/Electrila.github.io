@@ -5,9 +5,8 @@ date:       2021-05-18 14:41:01 -0400
 permalink:  the_long_road_to_finding_my_true_passion
 ---
 
----
-
 ## *"What do you want to be when you grow up?"*
+---
 
 We've all been asked that question, and we've been asked a lot.  From the time we're able to talk until we become an adult and are considered "grown up", we've been asked more times than we can count.  Contemplating our future is part of human nature.  We change our minds, we develop new interests, we find our niche, and we try to build our lives around what we feel would make us happy.
 
