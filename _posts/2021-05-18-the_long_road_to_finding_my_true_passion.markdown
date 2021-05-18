@@ -40,7 +40,7 @@ I went in for an EKG with my doctor and received an urgent referral for cardiolo
 
 There is no cure for this condition and the only course of treatment is medication to manage symptoms.  The diagnosis was bad enough, but even worse was my neurologist hitting me with a reality check.
 
-> <h1>***"You won't be able to maintain any career that involves physical activity."***</h1>
+> # ***"You won't be able to maintain any career that involves physical activity."***
 
 These words hit me like a ton of bricks.  I couldn't be a police officer.  I couldn't be an EMT anymore.  I couldn't do any of the things I dreamed of doing with my life.  My world was flipped upside down and I had no idea how to put the pieces of my now shattered future back together.  I was going to be confined to a desk for the rest of my life.  I was lost.
 
@@ -61,4 +61,4 @@ I hadn't considered any type of career in the tech industry and wanted to make s
 
 It's now May 18, 2021 and my depression is lifting.  I'm on a stable medication regimen and regularly attend therapy.  I finally worked up the courage to take the next step.  I wanted this to be more than a hobby; I wanted it to be my career.  I applied to [Flatiron School](https://flatironschool.com/our-courses/) for their self-paced Full-Stack Software Engineering program and was over the moon when I found out I had been accepted.  At age 31, everything is finally falling into place and I'm on the exact path I was meant to travel.
 
-<h2 align="center">*For the first time in my life, I can truly say I have found my passion.*</h2>
+## ***For the first time in my life, I can truly say I have found my passion.***
