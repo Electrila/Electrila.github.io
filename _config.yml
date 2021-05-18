@@ -1,11 +1,11 @@
 # Site settings
 author: Megann Comstock
-title: 
+title: Coding Chronicles
 header-img: img/home-bg.png
 email: megann.elizabeth.king@gmail.com
 copyright_name: Megann Comstock
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Find Your Passion
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: electrila
 github_username:  Electrila
