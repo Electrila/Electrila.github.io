@@ -61,4 +61,4 @@ I hadn't considered any type of career in the tech industry and wanted to make s
 
 It's now May 18, 2021 and my depression is lifting.  I'm on a stable medication regimen and regularly attend therapy.  I finally worked up the courage to take the next step.  I wanted this to be more than a hobby; I wanted it to be my career.  I applied to [Flatiron School](https://flatironschool.com/our-courses/) for their self-paced Full-Stack Software Engineering program and was over the moon when I found out I had been accepted.  At age 30, everything is finally falling into place and I'm on the exact path I was meant to travel.
 
-<h2 align="center">***For the first time in my life, I can truly say I have found my passion.***</h2>
+<h2 align="center">For the first time in my life, I can truly say I have found my passion.</h2>
