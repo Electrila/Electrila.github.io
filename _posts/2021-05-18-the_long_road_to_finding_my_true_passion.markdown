@@ -40,7 +40,7 @@ I went in for an EKG with my doctor and received an urgent referral for cardiolo
 
 There is no cure for this condition and the only course of treatment is medication to manage symptoms.  The diagnosis was bad enough, but even worse was my neurologist hitting me with a reality check.
 
-> # ***"You won't be able to maintain any career that involves physical activity."***
+> <h1>***"You won't be able to maintain any career that involves physical activity."***</h1>
 
 These words hit me like a ton of bricks.  I couldn't be a police officer.  I couldn't be an EMT anymore.  I couldn't do any of the things I dreamed of doing with my life.  My world was flipped upside down and I had no idea how to put the pieces of my now shattered future back together.  I was going to be confined to a desk for the rest of my life.  I was lost.
 
